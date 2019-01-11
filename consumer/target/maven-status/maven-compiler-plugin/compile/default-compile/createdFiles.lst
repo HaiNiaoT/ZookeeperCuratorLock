@@ -1,0 +1,4 @@
+com\rwb\controller\LockTestCon.class
+com\rwb\service\ZKLockTestService.class
+com\rwb\util\DubbobBean.class
+com\rwb\Application.class

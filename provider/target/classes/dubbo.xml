@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dubbo="http://code.alibabatech.com/schema/dubbo"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+       http://www.springframework.org/schema/beans/spring-beans.xsd
+       http://code.alibabatech.com/schema/dubbo
+       http://code.alibabatech.com/schema/dubbo/dubbo.xsd">
+
+    <dubbo:application name="provider"/>
+
+    <dubbo:registry address="zookeeper://47.99.242.112:2181" />
+
+    <dubbo:protocol port="20881" name="dubbo"/>
+
+    <bean id="lockTest" class="com.rwb.service.imp.ZKLockTestImp"/>
+    <dubbo:service interface="com.rwb.api.ZKLockTest" ref="lockTest" version="1.0" group="rwb"/>
+
+
+</beans>

@@ -1,0 +1,1641 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="552ce1d1-0778-4f06-950e-f8ccd6bee019" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/consumer/target/" />
+    <ignored path="$PROJECT_DIR$/provider/target/" />
+    <ignored path="$PROJECT_DIR$/api/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="ZKLockTestImp.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/provider/src/main/java/com/rwb/service/imp/ZKLockTestImp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="30" column="25" lean-forward="false" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2536#2537#0" expanded="true" />
+                <element signature="e#2562#2563#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dubbo.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/provider/src/main/resources/dubbo.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="12" column="31" lean-forward="false" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CuratorFrameworkFactory.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/curator/curator-framework/4.0.1/curator-framework-4.0.1.jar!/org/apache/curator/framework/CuratorFrameworkFactory.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="32" column="13" lean-forward="false" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+              <folding>
+                <marker date="1547038938242" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1547038938242" expanded="false" signature="152:1431" ph="..." />
+                <marker date="1547038938242" expanded="false" signature="2266:2277" ph=" { " />
+                <marker date="1547038938242" expanded="false" signature="2322:2328" ph=" }" />
+                <marker date="1547038938242" expanded="true" signature="2422:2542" ph="{...}" />
+                <marker date="1547038938242" expanded="true" signature="2683:2854" ph="{...}" />
+                <marker date="1547038938242" expanded="true" signature="2899:3083" ph="{...}" />
+                <marker date="1547038938242" expanded="true" signature="3123:3130" ph="{}" />
+                <marker date="1547038938242" expanded="true" signature="3143:3302" ph="{...}" />
+                <marker date="1547038938242" expanded="true" signature="3336:12365" ph="{...}" />
+                <marker date="1547038938242" expanded="false" signature="4208:4223" ph=" { " />
+                <marker date="1547038938242" expanded="false" signature="4261:4271" ph=" }" />
+                <marker date="1547038938242" expanded="true" signature="4321:4445" ph="{...}" />
+                <marker date="1547038938242" expanded="true" signature="4532:4632" ph="{...}" />
+                <marker date="1547038938242" expanded="true" signature="4723:4869" ph="{...}" />
+                <marker date="1547038938242" expanded="true" signature="4958:5056" ph="{...}" />
+                <marker date="1547038938242" expanded="true" signature="5141:5255" ph="{...}" />
+                <marker date="1547038938242" expanded="true" signature="5356:5446" ph="{...}" />
+                <marker date="1547038938242" expanded="true" signature="5527:5671" ph="{...}" />
+                <marker date="1547038938242" expanded="true" signature="5748:5824" ph="{...}" />
+                <marker date="1547038938242" expanded="true" signature="5912:6002" ph="{...}" />
+                <marker date="1547038938242" expanded="true" signature="6096:6192" ph="{...}" />
+                <marker date="1547038938242" expanded="true" signature="6276:6362" ph="{...}" />
+                <marker date="1547038938242" expanded="true" signature="6448:6528" ph="{...}" />
+                <marker date="1547038938242" expanded="true" signature="6620:6704" ph="{...}" />
+                <marker date="1547038938242" expanded="true" signature="6814:6910" ph="{...}" />
+                <marker date="1547038938242" expanded="true" signature="7011:7101" ph="{...}" />
+                <marker date="1547038938242" expanded="true" signature="7187:7267" ph="{...}" />
+                <marker date="1547038938242" expanded="true" signature="7353:7437" ph="{...}" />
+                <marker date="1547038938242" expanded="true" signature="7512:7605" ph="{...}" />
+                <marker date="1547038938242" expanded="true" signature="7736:7846" ph="{...}" />
+                <marker date="1547038938242" expanded="true" signature="7931:8014" ph="{...}" />
+                <marker date="1547038938242" expanded="true" signature="8139:8245" ph="{...}" />
+                <marker date="1547038938242" expanded="true" signature="8325:8401" ph="{...}" />
+                <marker date="1547038938242" expanded="false" signature="8446:8461" ph=" { " />
+                <marker date="1547038938242" expanded="false" signature="8485:8495" ph=" }" />
+                <marker date="1547038938242" expanded="false" signature="8550:8565" ph=" { " />
+                <marker date="1547038938242" expanded="false" signature="8594:8604" ph=" }" />
+                <marker date="1547038938242" expanded="false" signature="8665:8680" ph=" { " />
+                <marker date="1547038938242" expanded="false" signature="8712:8722" ph=" }" />
+                <marker date="1547038938242" expanded="false" signature="8771:8786" ph=" { " />
+                <marker date="1547038938242" expanded="false" signature="8812:8822" ph=" }" />
+                <marker date="1547038938242" expanded="false" signature="8877:8892" ph=" { " />
+                <marker date="1547038938242" expanded="false" signature="8921:8931" ph=" }" />
+                <marker date="1547038938242" expanded="false" signature="8973:8988" ph=" { " />
+                <marker date="1547038938242" expanded="false" signature="9017:9027" ph=" }" />
+                <marker date="1547038938242" expanded="false" signature="9072:9087" ph=" { " />
+                <marker date="1547038938242" expanded="false" signature="9119:9129" ph=" }" />
+                <marker date="1547038938242" expanded="false" signature="9169:9184" ph=" { " />
+                <marker date="1547038938242" expanded="false" signature="9211:9221" ph=" }" />
+                <marker date="1547038938242" expanded="false" signature="9266:9281" ph=" { " />
+                <marker date="1547038938242" expanded="false" signature="9305:9315" ph=" }" />
+                <marker date="1547038938242" expanded="false" signature="9353:9368" ph=" { " />
+                <marker date="1547038938242" expanded="false" signature="9390:9400" ph=" }" />
+                <marker date="1547038938242" expanded="false" signature="9457:9472" ph=" { " />
+                <marker date="1547038938242" expanded="false" signature="9515:9525" ph=" }" />
+                <marker date="1547038938242" expanded="false" signature="9600:9615" ph=" { " />
+                <marker date="1547038938242" expanded="false" signature="9654:9664" ph=" }" />
+                <marker date="1547038938242" expanded="false" signature="9735:9750" ph=" { " />
+                <marker date="1547038938242" expanded="false" signature="9787:9797" ph=" }" />
+                <marker date="1547038938242" expanded="false" signature="9838:9853" ph=" { " />
+                <marker date="1547038938242" expanded="false" signature="9875:9885" ph=" }" />
+                <marker date="1547038938242" expanded="false" signature="9935:9950" ph=" { " />
+                <marker date="1547038938242" expanded="false" signature="9984:9994" ph=" }" />
+                <marker date="1547038938242" expanded="true" signature="10004:10022" ph="/**...*/" />
+                <marker date="1547038938242" expanded="true" signature="10081:10445" ph="{...}" />
+                <marker date="1547038938242" expanded="true" signature="10455:10473" ph="/**...*/" />
+                <marker date="1547038938242" expanded="true" signature="10531:10988" ph="{...}" />
+                <marker date="1547038938242" expanded="false" signature="11034:11049" ph=" { " />
+                <marker date="1547038938242" expanded="false" signature="11071:11081" ph=" }" />
+                <marker date="1547038938242" expanded="false" signature="11121:11136" ph=" { " />
+                <marker date="1547038938242" expanded="false" signature="11160:11170" ph=" }" />
+                <marker date="1547038938242" expanded="false" signature="11210:11225" ph=" { " />
+                <marker date="1547038938242" expanded="false" signature="11251:11261" ph=" }" />
+                <marker date="1547038938242" expanded="true" signature="11289:12359" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InterProcessMutex.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/curator/curator-recipes/4.0.1/curator-recipes-4.0.1.jar!/org/apache/curator/framework/recipes/locks/InterProcessMutex.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1936">
+              <caret line="106" column="64" lean-forward="false" selection-start-line="106" selection-start-column="47" selection-end-line="106" selection-end-column="64" />
+              <folding>
+                <marker date="1547038938169" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1547038938169" expanded="false" signature="166:628" ph="..." />
+                <marker date="1547038938169" expanded="true" signature="1000:1070" ph="{...}" />
+                <marker date="1547038938169" expanded="true" signature="1167:1222" ph="{...}" />
+                <marker date="1547038938169" expanded="true" signature="1267:1440" ph="{...}" />
+                <marker date="1547038938169" expanded="true" signature="1512:1565" ph="{...}" />
+                <marker date="1547038938169" expanded="false" signature="1611:1622" ph=" { " />
+                <marker date="1547038938169" expanded="false" signature="1656:1662" ph=" }" />
+                <marker date="1547038938169" expanded="true" signature="1707:2572" ph="{...}" />
+                <marker date="1547038938169" expanded="true" signature="2643:2801" ph="{...}" />
+                <marker date="1547038938169" expanded="true" signature="2881:2958" ph="{...}" />
+                <marker date="1547038938169" expanded="true" signature="3063:3282" ph="{...}" />
+                <marker date="1547038938169" expanded="false" signature="3131:3179" ph="run() → {" />
+                <marker date="1547038938169" expanded="false" signature="3258:3273" ph="}" />
+                <marker date="1547038938169" expanded="true" signature="3404:3603" ph="{...}" />
+                <marker date="1547038938169" expanded="true" signature="3649:3840" ph="{...}" />
+                <marker date="1547038938169" expanded="false" signature="3881:3892" ph=" { " />
+                <marker date="1547038938169" expanded="false" signature="3904:3910" ph=" }" />
+                <marker date="1547038938169" expanded="true" signature="3947:4133" ph="{...}" />
+                <marker date="1547038938169" expanded="true" signature="4211:4927" ph="{...}" />
+                <marker date="1547038938169" expanded="true" signature="4963:5286" ph="{...}" />
+                <marker date="1547038938169" expanded="true" signature="5134:5280" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1232">
+              <caret line="56" column="21" lean-forward="false" selection-start-line="56" selection-start-column="21" selection-end-line="56" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ClientCnxn.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.6/zookeeper-3.4.6-sources.jar!/org/apache/zookeeper/ClientCnxn.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="21494">
+              <caret line="1080" column="0" lean-forward="false" selection-start-line="1080" selection-start-column="0" selection-end-line="1080" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SocketDispatcher.class" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/JavaEnvironment/JDK/jre/lib/rt.jar!/sun/nio/ch/SocketDispatcher.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="792">
+              <caret line="40" column="21" lean-forward="false" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
+              <folding>
+                <marker date="1534058873436" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1534058873436" expanded="false" signature="134:185" ph="..." />
+                <marker date="1534058873436" expanded="true" signature="260:267" ph="{}" />
+                <marker date="1534058873436" expanded="true" signature="343:390" ph="{...}" />
+                <marker date="1534058873436" expanded="true" signature="468:516" ph="{...}" />
+                <marker date="1534058873436" expanded="true" signature="593:641" ph="{...}" />
+                <marker date="1534058873436" expanded="true" signature="720:769" ph="{...}" />
+                <marker date="1534058873436" expanded="true" signature="829:861" ph="{...}" />
+                <marker date="1534058873436" expanded="true" signature="918:947" ph="{...}" />
+                <marker date="1534058873436" expanded="true" signature="1477:1507" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ZKLock.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/provider/src/main/java/com/rwb/util/ZKLock.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="consumer.iml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/consumer/consumer.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Application.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/consumer/src/main/java/com/rwb/Application.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>KeeperErrorCode</find>
+      <find>System</find>
+      <find>当前的所有子节点为</find>
+      <find>info</find>
+    </findStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/api/src/main/java/com/rwb/Application.java" />
+        <option value="$PROJECT_DIR$/api/src/main/java/com/rwb/api.java" />
+        <option value="$PROJECT_DIR$/api/src/main/java/com/rwb/api/ZKLockTest.java" />
+        <option value="$PROJECT_DIR$/consumer/src/main/java/com/rwb/application.java" />
+        <option value="$PROJECT_DIR$/provider/src/main/java/com/rwb/Application.java" />
+        <option value="$PROJECT_DIR$/consumer/src/main/java/com/rwb/Application.java" />
+        <option value="$PROJECT_DIR$/consumer/src/main/java/com/rwb/util/DubbobBean.java" />
+        <option value="$PROJECT_DIR$/consumer/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/consumer/src/main/java/com/rwb/controller/LockTestCon.java" />
+        <option value="$PROJECT_DIR$/consumer/src/main/java/com/rwb/service/ZKLockTestService.java" />
+        <option value="$PROJECT_DIR$/consumer/src/main/resources/dubbo-consumer.xml" />
+        <option value="$PROJECT_DIR$/api/pom.xml" />
+        <option value="$PROJECT_DIR$/api/src/test/java/HttpClientTest.java" />
+        <option value="$PROJECT_DIR$/api/src/test/java/com/rwb/HttpClientTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/provider/src/main/java/com/rwb/service/imp/ZKLockTestImp.java" />
+        <option value="$PROJECT_DIR$/provider/src/main/resources/dubbo.xml" />
+        <option value="$PROJECT_DIR$/provider/src/main/java/com/rwb/util/ZKLock.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/apache-maven-3.5.0" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.5.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="provider" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="provider" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="84" />
+    <option name="y" value="132" />
+    <option name="width" value="1877" />
+    <option name="height" value="960" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="zookeeperLockTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zookeeperLockTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zookeeperLockTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zookeeperLockTest" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zookeeperLockTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zookeeperLockTest" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zookeeperLockTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zookeeperLockTest" type="462c0819:PsiDirectoryNode" />
+              <item name="consumer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zookeeperLockTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zookeeperLockTest" type="462c0819:PsiDirectoryNode" />
+              <item name="consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zookeeperLockTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zookeeperLockTest" type="462c0819:PsiDirectoryNode" />
+              <item name="consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zookeeperLockTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zookeeperLockTest" type="462c0819:PsiDirectoryNode" />
+              <item name="consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zookeeperLockTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zookeeperLockTest" type="462c0819:PsiDirectoryNode" />
+              <item name="consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="rwb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zookeeperLockTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zookeeperLockTest" type="462c0819:PsiDirectoryNode" />
+              <item name="provider" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zookeeperLockTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zookeeperLockTest" type="462c0819:PsiDirectoryNode" />
+              <item name="provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zookeeperLockTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zookeeperLockTest" type="462c0819:PsiDirectoryNode" />
+              <item name="provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zookeeperLockTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zookeeperLockTest" type="462c0819:PsiDirectoryNode" />
+              <item name="provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zookeeperLockTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zookeeperLockTest" type="462c0819:PsiDirectoryNode" />
+              <item name="provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="rwb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zookeeperLockTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zookeeperLockTest" type="462c0819:PsiDirectoryNode" />
+              <item name="provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="rwb" type="462c0819:PsiDirectoryNode" />
+              <item name="imp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zookeeperLockTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zookeeperLockTest" type="462c0819:PsiDirectoryNode" />
+              <item name="provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="rwb" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zookeeperLockTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zookeeperLockTest" type="462c0819:PsiDirectoryNode" />
+              <item name="provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zookeeperLockTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zookeeperLockTest" type="462c0819:PsiDirectoryNode" />
+              <item name="provider" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="SearchEverywhereHistoryKey" value="com.rwb.api.ZKLockTest&#9;PSI&#9;JAVA://com.rwb.api.ZKLockTest&#10;com.rwb.service.imp.ZKLockTestImp&#9;PSI&#9;JAVA://com.rwb.service.imp.ZKLockTestImp" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.rwb" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.rwb.util" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\worker\zookeeperLockTest\consumer\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Application (2)">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration name="HttpClientTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="com.rwb.HttpClientTest" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="api" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration name="Application (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.rwb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.rwb.Application" />
+      <module name="api" />
+      <envs />
+    </configuration>
+    <configuration name="Application (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.rwb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.rwb.Application" />
+      <module name="consumer" />
+      <envs />
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.rwb.Application" />
+      <module name="provider" />
+      <envs />
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.rwb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.rwb.Application" />
+      <module name="consumer" />
+      <envs />
+    </configuration>
+    <configuration name="ZookeeperLockTestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.rwb.zookeeperLockTest.ZookeeperLockTestApplication" />
+      <module name="zookeeperLockTest" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Twisted Trial">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Spring Boot.ZookeeperLockTestApplication" />
+      <item index="1" class="java.lang.String" itemvalue="Spring Boot.Application" />
+      <item index="2" class="java.lang.String" itemvalue="Application.HttpClientTest" />
+      <item index="3" class="java.lang.String" itemvalue="Spring Boot.Application (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Spring Boot.Application (2)" />
+    </list>
+    <recent_temporary>
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Spring Boot.Application (2)" />
+        <item index="1" class="java.lang.String" itemvalue="Application.HttpClientTest" />
+        <item index="2" class="java.lang.String" itemvalue="Spring Boot.Application (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Spring Boot.Application (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="552ce1d1-0778-4f06-950e-f8ccd6bee019" name="Default" comment="" />
+      <created>1547025824921</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547025824921</updated>
+      <workItem from="1547025826290" duration="8694000" />
+      <workItem from="1547035171544" duration="4760000" />
+      <workItem from="1547104621136" duration="3919000" />
+      <workItem from="1547189551160" duration="816000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="18189000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="84" y="132" width="1877" height="960" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299356" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299356" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960895" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26204985" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.6/zookeeper-3.4.6-sources.jar!/org/apache/zookeeper/ClientCnxn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21494">
+          <caret line="1080" column="0" lean-forward="false" selection-start-line="1080" selection-start-column="0" selection-end-line="1080" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JavaEnvironment/JDK/jre/lib/rt.jar!/sun/nio/ch/SocketDispatcher.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="40" column="21" lean-forward="false" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
+          <folding>
+            <marker date="1534058873436" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1534058873436" expanded="false" signature="134:185" ph="..." />
+            <marker date="1534058873436" expanded="true" signature="260:267" ph="{}" />
+            <marker date="1534058873436" expanded="true" signature="343:390" ph="{...}" />
+            <marker date="1534058873436" expanded="true" signature="468:516" ph="{...}" />
+            <marker date="1534058873436" expanded="true" signature="593:641" ph="{...}" />
+            <marker date="1534058873436" expanded="true" signature="720:769" ph="{...}" />
+            <marker date="1534058873436" expanded="true" signature="829:861" ph="{...}" />
+            <marker date="1534058873436" expanded="true" signature="918:947" ph="{...}" />
+            <marker date="1534058873436" expanded="true" signature="1477:1507" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider/src/main/java/com/rwb/util/ZKLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2112">
+          <caret line="106" column="30" lean-forward="false" selection-start-line="106" selection-start-column="26" selection-end-line="106" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consumer/consumer.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consumer/src/main/java/com/rwb/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider/src/main/resources/dubbo.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="31" lean-forward="false" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider/src/main/java/com/rwb/service/imp/ZKLockTestImp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2536#2537#0" expanded="true" />
+            <element signature="e#2562#2563#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/curator/curator-framework/4.0.1/curator-framework-4.0.1.jar!/org/apache/curator/framework/CuratorFrameworkFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="32" column="13" lean-forward="false" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+          <folding>
+            <marker date="1547038938242" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1547038938242" expanded="false" signature="152:1431" ph="..." />
+            <marker date="1547038938242" expanded="false" signature="2266:2277" ph=" { " />
+            <marker date="1547038938242" expanded="false" signature="2322:2328" ph=" }" />
+            <marker date="1547038938242" expanded="true" signature="2422:2542" ph="{...}" />
+            <marker date="1547038938242" expanded="true" signature="2683:2854" ph="{...}" />
+            <marker date="1547038938242" expanded="true" signature="2899:3083" ph="{...}" />
+            <marker date="1547038938242" expanded="true" signature="3123:3130" ph="{}" />
+            <marker date="1547038938242" expanded="true" signature="3143:3302" ph="{...}" />
+            <marker date="1547038938242" expanded="true" signature="3336:12365" ph="{...}" />
+            <marker date="1547038938242" expanded="false" signature="4208:4223" ph=" { " />
+            <marker date="1547038938242" expanded="false" signature="4261:4271" ph=" }" />
+            <marker date="1547038938242" expanded="true" signature="4321:4445" ph="{...}" />
+            <marker date="1547038938242" expanded="true" signature="4532:4632" ph="{...}" />
+            <marker date="1547038938242" expanded="true" signature="4723:4869" ph="{...}" />
+            <marker date="1547038938242" expanded="true" signature="4958:5056" ph="{...}" />
+            <marker date="1547038938242" expanded="true" signature="5141:5255" ph="{...}" />
+            <marker date="1547038938242" expanded="true" signature="5356:5446" ph="{...}" />
+            <marker date="1547038938242" expanded="true" signature="5527:5671" ph="{...}" />
+            <marker date="1547038938242" expanded="true" signature="5748:5824" ph="{...}" />
+            <marker date="1547038938242" expanded="true" signature="5912:6002" ph="{...}" />
+            <marker date="1547038938242" expanded="true" signature="6096:6192" ph="{...}" />
+            <marker date="1547038938242" expanded="true" signature="6276:6362" ph="{...}" />
+            <marker date="1547038938242" expanded="true" signature="6448:6528" ph="{...}" />
+            <marker date="1547038938242" expanded="true" signature="6620:6704" ph="{...}" />
+            <marker date="1547038938242" expanded="true" signature="6814:6910" ph="{...}" />
+            <marker date="1547038938242" expanded="true" signature="7011:7101" ph="{...}" />
+            <marker date="1547038938242" expanded="true" signature="7187:7267" ph="{...}" />
+            <marker date="1547038938242" expanded="true" signature="7353:7437" ph="{...}" />
+            <marker date="1547038938242" expanded="true" signature="7512:7605" ph="{...}" />
+            <marker date="1547038938242" expanded="true" signature="7736:7846" ph="{...}" />
+            <marker date="1547038938242" expanded="true" signature="7931:8014" ph="{...}" />
+            <marker date="1547038938242" expanded="true" signature="8139:8245" ph="{...}" />
+            <marker date="1547038938242" expanded="true" signature="8325:8401" ph="{...}" />
+            <marker date="1547038938242" expanded="false" signature="8446:8461" ph=" { " />
+            <marker date="1547038938242" expanded="false" signature="8485:8495" ph=" }" />
+            <marker date="1547038938242" expanded="false" signature="8550:8565" ph=" { " />
+            <marker date="1547038938242" expanded="false" signature="8594:8604" ph=" }" />
+            <marker date="1547038938242" expanded="false" signature="8665:8680" ph=" { " />
+            <marker date="1547038938242" expanded="false" signature="8712:8722" ph=" }" />
+            <marker date="1547038938242" expanded="false" signature="8771:8786" ph=" { " />
+            <marker date="1547038938242" expanded="false" signature="8812:8822" ph=" }" />
+            <marker date="1547038938242" expanded="false" signature="8877:8892" ph=" { " />
+            <marker date="1547038938242" expanded="false" signature="8921:8931" ph=" }" />
+            <marker date="1547038938242" expanded="false" signature="8973:8988" ph=" { " />
+            <marker date="1547038938242" expanded="false" signature="9017:9027" ph=" }" />
+            <marker date="1547038938242" expanded="false" signature="9072:9087" ph=" { " />
+            <marker date="1547038938242" expanded="false" signature="9119:9129" ph=" }" />
+            <marker date="1547038938242" expanded="false" signature="9169:9184" ph=" { " />
+            <marker date="1547038938242" expanded="false" signature="9211:9221" ph=" }" />
+            <marker date="1547038938242" expanded="false" signature="9266:9281" ph=" { " />
+            <marker date="1547038938242" expanded="false" signature="9305:9315" ph=" }" />
+            <marker date="1547038938242" expanded="false" signature="9353:9368" ph=" { " />
+            <marker date="1547038938242" expanded="false" signature="9390:9400" ph=" }" />
+            <marker date="1547038938242" expanded="false" signature="9457:9472" ph=" { " />
+            <marker date="1547038938242" expanded="false" signature="9515:9525" ph=" }" />
+            <marker date="1547038938242" expanded="false" signature="9600:9615" ph=" { " />
+            <marker date="1547038938242" expanded="false" signature="9654:9664" ph=" }" />
+            <marker date="1547038938242" expanded="false" signature="9735:9750" ph=" { " />
+            <marker date="1547038938242" expanded="false" signature="9787:9797" ph=" }" />
+            <marker date="1547038938242" expanded="false" signature="9838:9853" ph=" { " />
+            <marker date="1547038938242" expanded="false" signature="9875:9885" ph=" }" />
+            <marker date="1547038938242" expanded="false" signature="9935:9950" ph=" { " />
+            <marker date="1547038938242" expanded="false" signature="9984:9994" ph=" }" />
+            <marker date="1547038938242" expanded="true" signature="10004:10022" ph="/**...*/" />
+            <marker date="1547038938242" expanded="true" signature="10081:10445" ph="{...}" />
+            <marker date="1547038938242" expanded="true" signature="10455:10473" ph="/**...*/" />
+            <marker date="1547038938242" expanded="true" signature="10531:10988" ph="{...}" />
+            <marker date="1547038938242" expanded="false" signature="11034:11049" ph=" { " />
+            <marker date="1547038938242" expanded="false" signature="11071:11081" ph=" }" />
+            <marker date="1547038938242" expanded="false" signature="11121:11136" ph=" { " />
+            <marker date="1547038938242" expanded="false" signature="11160:11170" ph=" }" />
+            <marker date="1547038938242" expanded="false" signature="11210:11225" ph=" { " />
+            <marker date="1547038938242" expanded="false" signature="11251:11261" ph=" }" />
+            <marker date="1547038938242" expanded="true" signature="11289:12359" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/curator/curator-recipes/4.0.1/curator-recipes-4.0.1.jar!/org/apache/curator/framework/recipes/locks/InterProcessMutex.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1936">
+          <caret line="106" column="64" lean-forward="false" selection-start-line="106" selection-start-column="47" selection-end-line="106" selection-end-column="64" />
+          <folding>
+            <marker date="1547038938169" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1547038938169" expanded="false" signature="166:628" ph="..." />
+            <marker date="1547038938169" expanded="true" signature="1000:1070" ph="{...}" />
+            <marker date="1547038938169" expanded="true" signature="1167:1222" ph="{...}" />
+            <marker date="1547038938169" expanded="true" signature="1267:1440" ph="{...}" />
+            <marker date="1547038938169" expanded="true" signature="1512:1565" ph="{...}" />
+            <marker date="1547038938169" expanded="false" signature="1611:1622" ph=" { " />
+            <marker date="1547038938169" expanded="false" signature="1656:1662" ph=" }" />
+            <marker date="1547038938169" expanded="true" signature="1707:2572" ph="{...}" />
+            <marker date="1547038938169" expanded="true" signature="2643:2801" ph="{...}" />
+            <marker date="1547038938169" expanded="true" signature="2881:2958" ph="{...}" />
+            <marker date="1547038938169" expanded="true" signature="3063:3282" ph="{...}" />
+            <marker date="1547038938169" expanded="false" signature="3131:3179" ph="run() → {" />
+            <marker date="1547038938169" expanded="false" signature="3258:3273" ph="}" />
+            <marker date="1547038938169" expanded="true" signature="3404:3603" ph="{...}" />
+            <marker date="1547038938169" expanded="true" signature="3649:3840" ph="{...}" />
+            <marker date="1547038938169" expanded="false" signature="3881:3892" ph=" { " />
+            <marker date="1547038938169" expanded="false" signature="3904:3910" ph=" }" />
+            <marker date="1547038938169" expanded="true" signature="3947:4133" ph="{...}" />
+            <marker date="1547038938169" expanded="true" signature="4211:4927" ph="{...}" />
+            <marker date="1547038938169" expanded="true" signature="4963:5286" ph="{...}" />
+            <marker date="1547038938169" expanded="true" signature="5134:5280" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="51" column="12" lean-forward="false" selection-start-line="51" selection-start-column="8" selection-end-line="51" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/src/main/java/com/rwb/HttpClientTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="726">
+          <caret line="38" column="38" lean-forward="false" selection-start-line="38" selection-start-column="38" selection-end-line="38" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.6/zookeeper-3.4.6-sources.jar!/org/apache/zookeeper/ClientCnxn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21494">
+          <caret line="1080" column="0" lean-forward="false" selection-start-line="1080" selection-start-column="0" selection-end-line="1080" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JavaEnvironment/JDK/jre/lib/rt.jar!/sun/nio/ch/SocketDispatcher.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="40" column="21" lean-forward="false" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
+          <folding>
+            <marker date="1534058873436" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1534058873436" expanded="false" signature="134:185" ph="..." />
+            <marker date="1534058873436" expanded="true" signature="260:267" ph="{}" />
+            <marker date="1534058873436" expanded="true" signature="343:390" ph="{...}" />
+            <marker date="1534058873436" expanded="true" signature="468:516" ph="{...}" />
+            <marker date="1534058873436" expanded="true" signature="593:641" ph="{...}" />
+            <marker date="1534058873436" expanded="true" signature="720:769" ph="{...}" />
+            <marker date="1534058873436" expanded="true" signature="829:861" ph="{...}" />
+            <marker date="1534058873436" expanded="true" signature="918:947" ph="{...}" />
+            <marker date="1534058873436" expanded="true" signature="1477:1507" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider/src/main/java/com/rwb/util/ZKLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2112">
+          <caret line="106" column="30" lean-forward="false" selection-start-line="106" selection-start-column="26" selection-end-line="106" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consumer/consumer.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consumer/src/main/java/com/rwb/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider/src/main/java/com/rwb/service/imp/ZKLockTestImp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="13" column="32" lean-forward="false" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2536#2537#0" expanded="true" />
+            <element signature="e#2562#2563#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="37" lean-forward="false" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/src/main/java/com/rwb/api/ZKLockTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="45" column="8" lean-forward="false" selection-start-line="45" selection-start-column="8" selection-end-line="49" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/src/main/java/com/rwb/HttpClientTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="726">
+          <caret line="38" column="38" lean-forward="true" selection-start-line="38" selection-start-column="38" selection-end-line="38" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.6/zookeeper-3.4.6-sources.jar!/org/apache/zookeeper/ClientCnxn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23760">
+          <caret line="1080" column="0" lean-forward="false" selection-start-line="1080" selection-start-column="0" selection-end-line="1080" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JavaEnvironment/JDK/jre/lib/rt.jar!/sun/nio/ch/SocketDispatcher.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="40" column="21" lean-forward="false" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
+          <folding>
+            <marker date="1534058873436" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1534058873436" expanded="false" signature="134:185" ph="..." />
+            <marker date="1534058873436" expanded="true" signature="260:267" ph="{}" />
+            <marker date="1534058873436" expanded="true" signature="343:390" ph="{...}" />
+            <marker date="1534058873436" expanded="true" signature="468:516" ph="{...}" />
+            <marker date="1534058873436" expanded="true" signature="593:641" ph="{...}" />
+            <marker date="1534058873436" expanded="true" signature="720:769" ph="{...}" />
+            <marker date="1534058873436" expanded="true" signature="829:861" ph="{...}" />
+            <marker date="1534058873436" expanded="true" signature="918:947" ph="{...}" />
+            <marker date="1534058873436" expanded="true" signature="1477:1507" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/src/main/java/com/rwb/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="9" column="54" lean-forward="false" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider/src/main/java/com/rwb/util/ZKLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1210">
+          <caret line="65" column="52" lean-forward="false" selection-start-line="65" selection-start-column="43" selection-end-line="65" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consumer/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/src/main/java/com/rwb/api.java" />
+    <entry file="file://$PROJECT_DIR$/consumer/src/main/java/com/rwb/util/DubbobBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="73" lean-forward="false" selection-start-line="6" selection-start-column="73" selection-end-line="6" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider/src/main/java/com/rwb/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="40" lean-forward="false" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#344#345#0" expanded="false" />
+            <element signature="e#405#406#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consumer/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consumer/src/main/resources/dubbo-consumer.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="80" lean-forward="false" selection-start-line="12" selection-start-column="80" selection-end-line="12" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consumer/src/main/java/com/rwb/controller/LockTestCon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="18" column="24" lean-forward="false" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consumer/src/main/java/com/rwb/service/ZKLockTestService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="13" column="60" lean-forward="false" selection-start-line="13" selection-start-column="60" selection-end-line="13" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/src/main/java/com/rwb/api/ZKLockTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="37" lean-forward="false" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/src/test/java/com/rwb/test.java" />
+    <entry file="file://$PROJECT_DIR$/api/src/main/java/com/rwb/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="9" column="54" lean-forward="false" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/src/main/java/com/rwb/HttpClientTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="726">
+          <caret line="38" column="38" lean-forward="false" selection-start-line="38" selection-start-column="38" selection-end-line="38" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.6/zookeeper-3.4.6-sources.jar!/org/apache/zookeeper/ClientCnxn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21494">
+          <caret line="1080" column="0" lean-forward="false" selection-start-line="1080" selection-start-column="0" selection-end-line="1080" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JavaEnvironment/JDK/jre/lib/rt.jar!/sun/nio/ch/SocketDispatcher.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="40" column="21" lean-forward="false" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
+          <folding>
+            <marker date="1534058873436" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1534058873436" expanded="false" signature="134:185" ph="..." />
+            <marker date="1534058873436" expanded="true" signature="260:267" ph="{}" />
+            <marker date="1534058873436" expanded="true" signature="343:390" ph="{...}" />
+            <marker date="1534058873436" expanded="true" signature="468:516" ph="{...}" />
+            <marker date="1534058873436" expanded="true" signature="593:641" ph="{...}" />
+            <marker date="1534058873436" expanded="true" signature="720:769" ph="{...}" />
+            <marker date="1534058873436" expanded="true" signature="829:861" ph="{...}" />
+            <marker date="1534058873436" expanded="true" signature="918:947" ph="{...}" />
+            <marker date="1534058873436" expanded="true" signature="1477:1507" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consumer/consumer.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consumer/src/main/java/com/rwb/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/curator/curator-recipes/4.0.1/curator-recipes-4.0.1.jar!/org/apache/curator/framework/recipes/locks/InterProcessMutex.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1936">
+          <caret line="106" column="64" lean-forward="false" selection-start-line="106" selection-start-column="47" selection-end-line="106" selection-end-column="64" />
+          <folding>
+            <marker date="1547038938169" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1547038938169" expanded="false" signature="166:628" ph="..." />
+            <marker date="1547038938169" expanded="true" signature="1000:1070" ph="{...}" />
+            <marker date="1547038938169" expanded="true" signature="1167:1222" ph="{...}" />
+            <marker date="1547038938169" expanded="true" signature="1267:1440" ph="{...}" />
+            <marker date="1547038938169" expanded="true" signature="1512:1565" ph="{...}" />
+            <marker date="1547038938169" expanded="false" signature="1611:1622" ph=" { " />
+            <marker date="1547038938169" expanded="false" signature="1656:1662" ph=" }" />
+            <marker date="1547038938169" expanded="true" signature="1707:2572" ph="{...}" />
+            <marker date="1547038938169" expanded="true" signature="2643:2801" ph="{...}" />
+            <marker date="1547038938169" expanded="true" signature="2881:2958" ph="{...}" />
+            <marker date="1547038938169" expanded="true" signature="3063:3282" ph="{...}" />
+            <marker date="1547038938169" expanded="false" signature="3131:3179" ph="run() → {" />
+            <marker date="1547038938169" expanded="false" signature="3258:3273" ph="}" />
+            <marker date="1547038938169" expanded="true" signature="3404:3603" ph="{...}" />
+            <marker date="1547038938169" expanded="true" signature="3649:3840" ph="{...}" />
+            <marker date="1547038938169" expanded="false" signature="3881:3892" ph=" { " />
+            <marker date="1547038938169" expanded="false" signature="3904:3910" ph=" }" />
+            <marker date="1547038938169" expanded="true" signature="3947:4133" ph="{...}" />
+            <marker date="1547038938169" expanded="true" signature="4211:4927" ph="{...}" />
+            <marker date="1547038938169" expanded="true" signature="4963:5286" ph="{...}" />
+            <marker date="1547038938169" expanded="true" signature="5134:5280" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/curator/curator-framework/4.0.1/curator-framework-4.0.1.jar!/org/apache/curator/framework/CuratorFrameworkFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="32" column="13" lean-forward="false" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+          <folding>
+            <marker date="1547038938242" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1547038938242" expanded="false" signature="152:1431" ph="..." />
+            <marker date="1547038938242" expanded="false" signature="2266:2277" ph=" { " />
+            <marker date="1547038938242" expanded="false" signature="2322:2328" ph=" }" />
+            <marker date="1547038938242" expanded="true" signature="2422:2542" ph="{...}" />
+            <marker date="1547038938242" expanded="true" signature="2683:2854" ph="{...}" />
+            <marker date="1547038938242" expanded="true" signature="2899:3083" ph="{...}" />
+            <marker date="1547038938242" expanded="true" signature="3123:3130" ph="{}" />
+            <marker date="1547038938242" expanded="true" signature="3143:3302" ph="{...}" />
+            <marker date="1547038938242" expanded="true" signature="3336:12365" ph="{...}" />
+            <marker date="1547038938242" expanded="false" signature="4208:4223" ph=" { " />
+            <marker date="1547038938242" expanded="false" signature="4261:4271" ph=" }" />
+            <marker date="1547038938242" expanded="true" signature="4321:4445" ph="{...}" />
+            <marker date="1547038938242" expanded="true" signature="4532:4632" ph="{...}" />
+            <marker date="1547038938242" expanded="true" signature="4723:4869" ph="{...}" />
+            <marker date="1547038938242" expanded="true" signature="4958:5056" ph="{...}" />
+            <marker date="1547038938242" expanded="true" signature="5141:5255" ph="{...}" />
+            <marker date="1547038938242" expanded="true" signature="5356:5446" ph="{...}" />
+            <marker date="1547038938242" expanded="true" signature="5527:5671" ph="{...}" />
+            <marker date="1547038938242" expanded="true" signature="5748:5824" ph="{...}" />
+            <marker date="1547038938242" expanded="true" signature="5912:6002" ph="{...}" />
+            <marker date="1547038938242" expanded="true" signature="6096:6192" ph="{...}" />
+            <marker date="1547038938242" expanded="true" signature="6276:6362" ph="{...}" />
+            <marker date="1547038938242" expanded="true" signature="6448:6528" ph="{...}" />
+            <marker date="1547038938242" expanded="true" signature="6620:6704" ph="{...}" />
+            <marker date="1547038938242" expanded="true" signature="6814:6910" ph="{...}" />
+            <marker date="1547038938242" expanded="true" signature="7011:7101" ph="{...}" />
+            <marker date="1547038938242" expanded="true" signature="7187:7267" ph="{...}" />
+            <marker date="1547038938242" expanded="true" signature="7353:7437" ph="{...}" />
+            <marker date="1547038938242" expanded="true" signature="7512:7605" ph="{...}" />
+            <marker date="1547038938242" expanded="true" signature="7736:7846" ph="{...}" />
+            <marker date="1547038938242" expanded="true" signature="7931:8014" ph="{...}" />
+            <marker date="1547038938242" expanded="true" signature="8139:8245" ph="{...}" />
+            <marker date="1547038938242" expanded="true" signature="8325:8401" ph="{...}" />
+            <marker date="1547038938242" expanded="false" signature="8446:8461" ph=" { " />
+            <marker date="1547038938242" expanded="false" signature="8485:8495" ph=" }" />
+            <marker date="1547038938242" expanded="false" signature="8550:8565" ph=" { " />
+            <marker date="1547038938242" expanded="false" signature="8594:8604" ph=" }" />
+            <marker date="1547038938242" expanded="false" signature="8665:8680" ph=" { " />
+            <marker date="1547038938242" expanded="false" signature="8712:8722" ph=" }" />
+            <marker date="1547038938242" expanded="false" signature="8771:8786" ph=" { " />
+            <marker date="1547038938242" expanded="false" signature="8812:8822" ph=" }" />
+            <marker date="1547038938242" expanded="false" signature="8877:8892" ph=" { " />
+            <marker date="1547038938242" expanded="false" signature="8921:8931" ph=" }" />
+            <marker date="1547038938242" expanded="false" signature="8973:8988" ph=" { " />
+            <marker date="1547038938242" expanded="false" signature="9017:9027" ph=" }" />
+            <marker date="1547038938242" expanded="false" signature="9072:9087" ph=" { " />
+            <marker date="1547038938242" expanded="false" signature="9119:9129" ph=" }" />
+            <marker date="1547038938242" expanded="false" signature="9169:9184" ph=" { " />
+            <marker date="1547038938242" expanded="false" signature="9211:9221" ph=" }" />
+            <marker date="1547038938242" expanded="false" signature="9266:9281" ph=" { " />
+            <marker date="1547038938242" expanded="false" signature="9305:9315" ph=" }" />
+            <marker date="1547038938242" expanded="false" signature="9353:9368" ph=" { " />
+            <marker date="1547038938242" expanded="false" signature="9390:9400" ph=" }" />
+            <marker date="1547038938242" expanded="false" signature="9457:9472" ph=" { " />
+            <marker date="1547038938242" expanded="false" signature="9515:9525" ph=" }" />
+            <marker date="1547038938242" expanded="false" signature="9600:9615" ph=" { " />
+            <marker date="1547038938242" expanded="false" signature="9654:9664" ph=" }" />
+            <marker date="1547038938242" expanded="false" signature="9735:9750" ph=" { " />
+            <marker date="1547038938242" expanded="false" signature="9787:9797" ph=" }" />
+            <marker date="1547038938242" expanded="false" signature="9838:9853" ph=" { " />
+            <marker date="1547038938242" expanded="false" signature="9875:9885" ph=" }" />
+            <marker date="1547038938242" expanded="false" signature="9935:9950" ph=" { " />
+            <marker date="1547038938242" expanded="false" signature="9984:9994" ph=" }" />
+            <marker date="1547038938242" expanded="true" signature="10004:10022" ph="/**...*/" />
+            <marker date="1547038938242" expanded="true" signature="10081:10445" ph="{...}" />
+            <marker date="1547038938242" expanded="true" signature="10455:10473" ph="/**...*/" />
+            <marker date="1547038938242" expanded="true" signature="10531:10988" ph="{...}" />
+            <marker date="1547038938242" expanded="false" signature="11034:11049" ph=" { " />
+            <marker date="1547038938242" expanded="false" signature="11071:11081" ph=" }" />
+            <marker date="1547038938242" expanded="false" signature="11121:11136" ph=" { " />
+            <marker date="1547038938242" expanded="false" signature="11160:11170" ph=" }" />
+            <marker date="1547038938242" expanded="false" signature="11210:11225" ph=" { " />
+            <marker date="1547038938242" expanded="false" signature="11251:11261" ph=" }" />
+            <marker date="1547038938242" expanded="true" signature="11289:12359" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1232">
+          <caret line="56" column="21" lean-forward="false" selection-start-line="56" selection-start-column="21" selection-end-line="56" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider/src/main/resources/dubbo.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="31" lean-forward="false" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider/src/main/java/com/rwb/util/ZKLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider/src/main/java/com/rwb/service/imp/ZKLockTestImp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="30" column="25" lean-forward="false" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2536#2537#0" expanded="true" />
+            <element signature="e#2562#2563#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Python 3.6 (myPythonProject) interpreter library</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>provider</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
